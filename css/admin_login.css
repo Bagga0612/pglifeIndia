@@ -1,0 +1,24 @@
+.navbar {
+    font-size: 13px;
+    background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.navbar img {
+    height: 45px;
+    width: 120px;
+}
+
+.page-container img {
+    width: 1707px;
+    height: 750px;
+    filter: blur(10px);
+}
+
+.page-container form {
+    position: absolute;
+    top: 35%;
+    left: 38%;
+    background-color: rgb(238, 236, 236);
+    padding: 30px;
+    border-radius: 20px;
+}

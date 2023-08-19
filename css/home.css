@@ -1,0 +1,75 @@
+.page-container {
+    height: auto;
+    margin: 0%;
+    padding: 0%;
+}
+
+.image-container img {
+    /* position: fixed;
+    top: 60px; */
+    width: 100%;
+    height: auto;
+    filter: brightness(50%);
+}
+
+.image-container h3 {
+    position: absolute;
+    top: 45%;
+    left: 37%;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.image-container form{
+    position: absolute;
+    top: 52%;
+    left: 37%;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.content-container {
+    position: relative;
+    top: -100px;
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.content-container h1 {
+    text-align: center;
+    padding: 50px;
+    font-size: 60px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.button-container {
+    text-align: center;
+    
+}
+
+@media(max-width:768px){
+    .button-container{
+        width: 100%;
+    }
+}
+
+.detail-container {
+    display: inline-block;
+    border-radius: 1000px; 
+    margin: 10px;
+    border:3px rgb(255, 255, 255) solid;
+    box-shadow: 3px 3px rgb(128, 126, 126);
+
+}
+
+.detail-container img {
+    width: 280px;
+    height: auto;
+}

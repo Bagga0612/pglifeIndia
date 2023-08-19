@@ -1,0 +1,169 @@
+.navbar{
+    font-size: 13px;
+}
+
+.navbar img{
+    height: 40px;
+    width: 108px;
+}
+
+.nav-item{
+    font-size: larger;
+}
+
+.header .navbar .nav-item i {
+    margin-right: 8px;
+}
+
+.header .nav-vl {
+    border-left: 2px solid #d6d6d678;
+    height: 24px;
+    margin: auto 16px;
+    display: inline-block;
+}
+
+#line{
+    margin: 0px;
+}
+
+.breadcrumb{
+    padding: 10px;
+}
+
+.page-container{
+    max-width: 1000px;
+    margin: auto;
+    padding: 15px 30px;
+    margin-top: 80px;
+}
+
+.content-container{
+    box-shadow: 5px 10px 10px 10px #888888;
+    border-radius: 8px;
+}
+
+.col-12{
+    margin: 10px 0px;
+}
+
+.card img{
+    width: 250px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.button{
+    margin-top: 30px;
+    padding: 15px;
+    float: right;
+}
+
+.interested-container{
+    margin-top: 100px;
+    padding: 20px 0px;
+    background-color: rgb(252, 234, 237);
+}
+
+#me{
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.property-card{
+    max-width: 1000px;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px 0px;
+    box-shadow:5px 10px 10px #888888;
+    margin-bottom: 20px;
+}
+.image-container img{
+    width: 220px;
+    height: 147px;
+}
+
+.property-name{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.property-gender img{
+    width: 40px;
+    height: auto;
+}
+
+.fa-star{
+    color: #EA322E;
+}
+
+.fa-star-half-alt{
+    color: #EA322E;
+
+}
+
+.fa-heart{
+    color: #EA322E;
+}
+.rent{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.btn{
+    width: 140px;
+    border-radius: 0px;
+    float: right;
+    background-color: #4dc7bc;
+    border-color: #4dc7bc;
+}
+
+.modal-header{
+    font-size: 22px;
+
+}
+
+.input-group button{
+    width: 100%;
+    color: white;
+    font-weight: bolder;
+    font-size: 19px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* footer */
+.footer {
+    background-color: #333333;
+    font-size: 13px;
+}
+
+.footer-container {
+    padding: 24px;
+}
+
+.footer-cities {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footer-city {
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+@media(max-width:768px) {
+    .footer-city {
+        width: 100%;
+    }
+}
+
+.footer-city a {
+    color: #ffffff;
+}
+
+.footer-copyright {
+    color: #a9a9a9;
+    text-align: center;
+    padding-top: 24px;
+}

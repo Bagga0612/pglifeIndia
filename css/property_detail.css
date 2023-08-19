@@ -1,0 +1,165 @@
+.carousel{
+    position: relative;
+    top: -20px;
+}
+
+.carousel-item img{
+    height: 600px;
+    width: 1349px;
+}
+
+.page-container {
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+/* .fas{
+    color: #66C2BD;
+} */
+
+.fa-star {
+    color: #EA322E;
+}
+
+.fa-heart {
+    color: #EA322E;
+    cursor: pointer;
+}
+
+.fa-star-half-alt {
+    color: #EA322E;
+}
+
+.col-auto {
+    float: right;
+}
+
+.property-address  {
+    font-size: larger;
+    color: #6f6f6f;
+}
+
+.property-gender img {
+    width: 40px;
+    height: auto;
+}
+
+.rent-container {
+    margin-top: 10px;
+}
+
+.p div {
+    display: inline-block;
+}
+
+.rent {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.button-container {
+    padding: 7px 15px;
+}
+
+.button-container a {
+    float: right;
+}
+
+.property_d {
+    background-color: #fcfaf7;
+    margin-top: 20px;
+}
+
+.property_detail {
+    max-width: 900px;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.topic {
+    padding: 40px 0px 40px;
+
+}
+
+.topic h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.amenity-container{
+    margin-top: 8px;
+    
+}
+
+.amenity-container img {
+    padding-right: 8px;
+}
+
+.amenity-container span {
+    font-size: 19px;
+    display: inline-block;
+}
+
+.about {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19px;
+}
+
+.Rating_item {
+    margin: 16px 0px;
+}
+
+.cleaning-rating i {
+    width: 24px;
+    height: auto;
+}
+
+.cleaning-rating p {
+    font-size: 19px;
+    display: inline-block;
+}
+
+.rating-circle {
+    margin: 0px;
+    padding: 60px;
+    background-color: white ;
+    border-radius: 4px;
+    box-shadow: 5px 10px 10px #888888;
+}
+
+.total-rating{
+    font-size: 29px;
+}
+
+.img-container{
+    width: 100%;
+    text-align: center;
+}
+
+.img-container img{
+    position: relative;
+    top: 50px;
+    width: 124px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.say-container{
+    background-color: #fcfaf7;
+    width: 100%;
+}
+
+.say-container .words{
+    padding-top: 70px;
+    text-align: center;
+    font-size: 24px;
+    color: #888888;
+}
+
+.say-container .name{
+    padding-right: 30px;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: end;
+    padding-bottom: 20px;
+}
